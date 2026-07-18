@@ -17,8 +17,6 @@ class SistemaFinancas:
         self.cor_vermelho = "#e74c3c"
         self.cor_azul = "#2980b9"
         self.cor_texto = "#000000"
-        
-        # 📌 FONTES SEGUINDO A ABNT:
         self.fonte_texto = ("Arial", 12)          # Texto padrão: tamanho 12
         self.fonte_destaque = ("Arial", 14, "bold") # Valores e destaques: 14, negrito
         self.fonte_titulo = ("Arial", 16, "bold")  # Título principal: 16, negrito
