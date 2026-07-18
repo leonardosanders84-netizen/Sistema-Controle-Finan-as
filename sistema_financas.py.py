@@ -11,7 +11,6 @@ class SistemaFinancas:
         self.raiz.title("Sistema de Finanças Pessoais")
         self.raiz.geometry("1050x720")
         self.raiz.resizable(False, False)
-        
         self.cor_fundo = "#ffffff"
         self.cor_verde = "#27ae60"
         self.cor_vermelho = "#e74c3c"
